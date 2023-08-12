@@ -19,7 +19,12 @@
 
 ##     <p align = "left"> About the Project 📚 </p>
 ### Locating Glasses Has Never Been Easier!
-Welcome to the FindMyGlasses project repository, where misplacing glasses becomes a thing of the past. Leveraging the power of YOLO (You Only Look Once) object detection and the versatility of Raspberry Pi 4 with strategically placed cameras, we offer a sophisticated solution to swiftly locate your glasses. Just send a simple query to our Telegram bot, and get notified of their exact location in your house! 🏠📸
+Welcome to the FindMyGlasses project repository, where misplacing glasses becomes a thing of the past. Leveraging the power of YOLO (You Only Look Once) object detection and the versatility of Raspberry Pi 4 with strategically placed cameras, we offer a sophisticated solution to swiftly locate your glasses. Just send a simple query to our Telegram bot, and get notified of their exact location in your house! 🏠
+
+
+
+# <p align ="center"> 🚀 Project Launching Soon! Stay tuned for the full code, training results, and model files. Star ⭐ the repository to get notified when it's live! </p>
+
 
 
 
