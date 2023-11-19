@@ -40,9 +40,6 @@ We've trained our YOLO model with a custom dataset, meticulously labeled and ann
 Stay tuned for the full code and demo video. Star ⭐ the repository to get notified when it's live!
 
 
-
-**Do remember to star ⭐ the repository if you like what you see!**
-
 ---
 
 
