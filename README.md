@@ -1,6 +1,6 @@
 #  <p align ="center" height="40px" width="40px"> 🕶️ FindMyGlasses: Glasses Locator with YOLO and Raspberry Pi 📸 </p>
 
-#  <p align ="center" height="40px" width="40px"> Detect and locate glasses in real-time using YOLO, powered by Raspberry Pi and integrated with a Telegram bot. </p>
+##  <p align ="center" height="40px" width="40px"> Detect and locate glasses in real-time using YOLO, powered by Raspberry Pi and integrated with a Telegram bot. </p>
 
 
 ### <p align ="center"> Implemented using: </p>
