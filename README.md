@@ -35,29 +35,12 @@ Misplacing your glasses is a thing of the past! Welcome to the FindMyGlasses pro
 We've trained our YOLO model with a custom dataset, meticulously labeled and annotated to ensure accuracy. You can access the dataset on Kaggle: [YOLOv8 Glasses Dataset](https://www.kaggle.com/datasets/nadavishai/yolov8-glasses-dataset-v1/). Feel free to use it for your own computer vision projects!
 
 <br><br>
-# <p align ="center"> 🚀 Project Launching Soon! Stay tuned for the full code, training results, and model files. Star ⭐ the repository to get notified when it's live! </p>
+### Project Launching Soon! 🚀
+Stay tuned for the full code and demo video. Star ⭐ the repository to get notified when it's live!
 
 
-
-# FindMyGlasses: Glasses Locator with YOLO and Raspberry Pi 📸
-
-
-Locate your glasses effortlessly in real-time with the power of YOLO (You Only Look Once) object detection, Raspberry Pi 4, and a Telegram bot integration. 
 
 **Do remember to star ⭐ the repository if you like what you see!**
-
-
-
-## About the Project 📚
-Misplacing your glasses is a thing of the past! Welcome to the FindMyGlasses project repository, where we've harnessed cutting-edge technology to make your life easier. 
-
-### Key Features 🔍
-- **Real-Time Detection:** Our system utilizes YOLO to identify the exact location of your glasses.
-- **Raspberry Pi Integration:** Powered by a Raspberry Pi 4, strategically placed cameras monitor your space.
-- **Telegram Bot:** Simply send a query to our Telegram bot and receive the precise location of your glasses in your house. 🏠
-
-### Project Launching Soon! 🚀
-Stay tuned for the full code, training results, and model files. We're working hard to bring this exciting project to life. Star ⭐ the repository to get notified when it's live!
 
 ---
 
