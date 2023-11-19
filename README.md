@@ -14,10 +14,11 @@
 
 <br>
 
-### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
 <p align="center">
   <a href="https://github.com/NadavIs56/FindMyGlasses-YOLOv8-RaspberryPi/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/NadavIs56/FindMyGlasses-YOLOv8-RaspberryPi"></a>
 </p>
+### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
+
 <br>
 
 ## About the Project 📚
