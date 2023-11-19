@@ -19,6 +19,8 @@
   <a href="https://github.com/NadavIs56/FindMyGlasses-YOLOv8-RaspberryPi/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/NadavIs56/FindMyGlasses-YOLOv8-RaspberryPi"></a>
 </p>
 
+[![GitHub stars](https://img.shields.io/github/stars/NadavIs56/FindMyGlasses-YOLOv8-RaspberryPi)](https://github.com/NadavIs56/FindMyGlasses-YOLOv8-RaspberryPi/stargazers)
+
 <br>
 
 ## About the Project 📚
