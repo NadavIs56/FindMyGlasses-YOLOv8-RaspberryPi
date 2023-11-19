@@ -46,6 +46,7 @@ Stay tuned for the full code and demo video. Star ⭐ the repository to get noti
 ---
 
 
-Made with ❤️ by [Nadav Ishai](https://github.com/NadavIs56)
-
+<div align="center">
+  Made with ❤️ by <a href="https://github.com/NadavIs56">Nadav Ishai</a>
+</div>
 
