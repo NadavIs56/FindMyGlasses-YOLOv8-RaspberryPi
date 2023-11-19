@@ -22,7 +22,7 @@ Misplacing your glasses is a thing of the past! Welcome to the FindMyGlasses pro
 
 <br>
 
-### Key Features 🔍
+## Key Features 🔍
 - **Real-Time Detection:** Our system utilizes YOLO to identify the exact location of your glasses.
 - **Raspberry Pi Integration:** Powered by a Raspberry Pi 4, strategically placed cameras monitor your space.
 - **Telegram Bot:** Simply send a query to our Telegram bot and receive the precise location of your glasses in your house. 🏠
