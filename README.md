@@ -1,6 +1,6 @@
 #  <p align ="center" height="40px" width="40px"> 🕶️ FindMyGlasses: Glasses Locator with YOLO and Raspberry Pi 📸 </p>
 
-##  <p align ="center" height="40px" width="40px"> Locate your glasses effortlessly in real-time with the power of YOLO (You Only Look Once) object detection, Raspberry Pi 4, and a Telegram bot integration. </p>
+###  <p align ="center" height="40px" width="40px"> Locate your glasses effortlessly in real-time with the power of YOLO (You Only Look Once) object detection, Raspberry Pi 4, and a Telegram bot integration. </p>
 
 
 ### <p align ="center"> Implemented using: </p>
@@ -44,13 +44,14 @@ We've trained our YOLO model with a custom dataset, meticulously labeled and ann
 
 # FindMyGlasses: Glasses Locator with YOLO and Raspberry Pi 📸
 
-<p align="center">
-  <a href="https://github.com/your-username/your-repository/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/your-username/your-repository"></a>
-</p>
 
 Locate your glasses effortlessly in real-time with the power of YOLO (You Only Look Once) object detection, Raspberry Pi 4, and a Telegram bot integration. 
 
 **Do remember to star ⭐ the repository if you like what you see!**
+<p align="center">
+  <a href="https://github.com/NadavIs56/FindMyGlasses-YOLOv8-RaspberryPi/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/NadavIs56/FindMyGlasses-YOLOv8-RaspberryPi"></a>
+</p>
+
 
 ## About the Project 📚
 Misplacing your glasses is a thing of the past! Welcome to the FindMyGlasses project repository, where we've harnessed cutting-edge technology to make your life easier. 
@@ -63,6 +64,12 @@ Misplacing your glasses is a thing of the past! Welcome to the FindMyGlasses pro
 ### Project Launching Soon! 🚀
 Stay tuned for the full code, training results, and model files. We're working hard to bring this exciting project to life. Star ⭐ the repository to get notified when it's live!
 
+---
+
+<p align="center">
+  Made with ❤️ by [Nadav Ishai](https://github.com/NadavIs56)
+</p>
+
 
 
 ## Getting Started 🚀
@@ -74,11 +81,7 @@ Coming soon...
 ## License 📝
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-<p align="center">
-  Made with ❤️ by [Your Name](https://github.com/your-username)
-</p>
 
 
 
