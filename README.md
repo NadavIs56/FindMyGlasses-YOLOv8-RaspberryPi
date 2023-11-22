@@ -35,7 +35,7 @@ Misplacing your glasses is a thing of the past! Welcome to the FindMyGlasses pro
 <br>
 
 ## Dataset 📦
-We've trained our YOLO model with a custom dataset, meticulously labeled and annotated to ensure accuracy. You can access the dataset on Kaggle: [YOLOv8 Glasses Dataset](https://www.kaggle.com/datasets/nadavishai/yolov8-glasses-dataset-v1/). <br>Feel free to use it for your own computer vision projects!
+I've trained my YOLO model with a custom dataset, meticulously labeled and annotated to ensure accuracy. You can access the dataset on Kaggle: [YOLOv8 Glasses Dataset](https://www.kaggle.com/datasets/nadavishai/yolov8-glasses-dataset-v1/). <br>Feel free to use it for your own computer vision projects!
 
 <br><br>
 ### Project Launching Soon! 🚀
